@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Welcome to My Test Jekyll Site
+layout: home
+author_profile: true
+title: "Jekyll Lab"
+excerpt: "Testing Jekyll themes and layouts."
 ---
 
 # Hello, World!
