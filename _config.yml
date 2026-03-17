@@ -1,6 +1,42 @@
-theme: jekyll-theme-minimal
-title: Lyndon Wong
-description: learning about jekyll themes
-google_analytics: G-HZTVTK8JS1  # your existing GA ID
-baseurl: "/jekyll-lab"
+# Theme
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Site settings
+title: "Jekyll Lab"
+name: "Lyndon Wong"
+description: "Testing Jekyll themes and layouts."
 url: "https://lyndonwong.com"
+baseurl: "/jekyll-lab"
+
+# Author (populates the sidebar bio card)
+author:
+  name: "Lyndon Wong"
+  bio: "Marketing & growth professional exploring AI across the customer journey."
+  location: "Bay Area, CA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lyndonwong"
+    - label: "Blog"
+      icon: "fas fa-fw fa-rss"
+      url: "https://lyndonwong.wordpress.com"
+
+# Navigation menu
+navigation:
+  - title: "Home"
+    url: /jekyll-lab/
+  - title: "Blog"
+    url: https://lyndonwong.wordpress.com
+
+# Defaults — applies Minimal Mistakes' "single" layout to all pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
