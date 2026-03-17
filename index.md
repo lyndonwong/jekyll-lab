@@ -7,6 +7,8 @@ title: Welcome to My Test Jekyll Site
 
 Welcome to the homepage of my test site. This site is built using Jekyll and hosted on GitHub Pages.
 
+![Park Bench Bird](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlmcm1tOTQ3dHdpMnExamdneWkxZG5sNGxoeHI1ZmtnMTNkdHh6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduOIHEGxPap1X2g/giphy.gif)
+
 ## About this site
 
 *   **Jekyll:** A simple, blog-aware static site generator.
