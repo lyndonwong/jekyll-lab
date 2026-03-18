@@ -1,8 +1,6 @@
 ---
 layout: home
 author_profile: true
-title: "Jekyll Lab"
-excerpt: "Testing Jekyll themes and layouts."
 layout: single
 header:
   image: /assets/images/san-gregorio-state-beach_2016_1920x609px.jpg
