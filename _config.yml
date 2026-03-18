@@ -6,7 +6,7 @@ plugins:
   - jekyll-include-cache
 
 # Site settings
-title: "Jekyll Lab"
+title: "Jekyll stuff"
 name: "Lyndon Wong"
 description: "Testing Jekyll themes and layouts."
 url: "https://lyndonwong.com"
@@ -20,21 +20,22 @@ masthead_title: "el double you ayy"
 author:
   name: "Lyndon Wong"
   avatar: "/assets/images/Lyndon-headshot.jpg"
-  bio: "Marketing & growth professional exploring AI across the customer journey."
+  bio: "Growth / Demand marketing practitioner exploring AI across the customer journey."
   location: "Bay Area, CA"
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/lyndonian"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/lyndonwong"
-    - label: "Blog"
-      icon: "fab fa-fw fa-wordpress"
-      url: "https://lyndonwong.wordpress.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lyndonwong/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lyndonwong"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/lyndonian"
+    - label: "Blog"
+      icon: "fab fa-fw fa-wordpress"
+      url: "https://lyndonwong.wordpress.com"
+
 
 # Navigation menu
 navigation:
