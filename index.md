@@ -3,6 +3,9 @@ layout: home
 author_profile: true
 title: "Jekyll Lab"
 excerpt: "Testing Jekyll themes and layouts."
+layout: single
+header:
+  image: /assets/images/san-gregorio-state-beach_NYE_2016_1200x675.jpg
 ---
 
 Welcome to the homepage of my test site. This site is built using Jekyll and hosted on GitHub Pages.
