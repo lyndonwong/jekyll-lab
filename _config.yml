@@ -18,12 +18,18 @@ author:
   bio: "Marketing & growth professional exploring AI across the customer journey."
   location: "Bay Area, CA"
   links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/lyndonian"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lyndonwong"
     - label: "Blog"
-      icon: "fas fa-fw fa-rss"
+      icon: "fas fa-fw fa-wordpress"
       url: "https://lyndonwong.wordpress.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lyndonwong/"
 
 # Navigation menu
 navigation:
