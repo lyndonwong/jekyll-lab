@@ -25,10 +25,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lyndonwong"
     - label: "Blog"
-      icon: "fas fa-fw fa-wordpress"
+      icon: "fab fa-fw fa-wordpress"
       url: "https://lyndonwong.wordpress.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lyndonwong/"
 
 # Navigation menu
