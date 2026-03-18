@@ -16,10 +16,6 @@ baseurl: "/jekyll-lab"
 logo: "/assets/images/LWA-v2-square.png"
 masthead_title: "el double you ayy"
 
-# Header
-header:
-  image: /assets/images/san-gregorio-state-beach_NYE_2016_1200x675.jpg
-
 # Author (populates the sidebar bio card)
 author:
   name: "Lyndon Wong"
