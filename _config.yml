@@ -8,6 +8,7 @@ plugins:
 # Site settings
 title: "Jekyll Lab"
 name: "Lyndon Wong"
+avatar: "/assets/images/Lyndon-headshot.jpg"
 description: "Testing Jekyll themes and layouts."
 url: "https://lyndonwong.com"
 baseurl: "/jekyll-lab"
