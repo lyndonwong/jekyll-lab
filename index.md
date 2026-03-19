@@ -16,4 +16,4 @@ I tinker here with various digital technologies that can improve customer acquis
 * 🏡 
 * 🧑‍🧑‍🧒‍🧒
 
-Please connect on my socials or check out my ![Blog](https://lyndonwong.wordpress.com/ "Lyndon's Wordpress blog").
+Please connect on my socials or check out my [Blog](https://lyndonwong.wordpress.com/ "Lyndon's Wordpress blog").
