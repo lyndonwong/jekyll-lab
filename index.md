@@ -10,9 +10,9 @@ header:
 
 ## Welcome!
 
-This is my online sandbox for testing various digital technologies that can improve customer acquisition, conversion and retention. 
+I help early stage startups and non-profit organizations with AI enabled growth and demand programs. 
 
-I'm currently helping early stage startups and non-profit organizations with AI enabled growth and demand programs. As time permits, I will profile some of this work and share relevant links below. 
+This is my online sandbox for testing various digital technologies that can improve customer acquisition, conversion and retention. As time permits, I will profile some of this work and share relevant links below. 
 
 * 🤖 
 * 🏡 
