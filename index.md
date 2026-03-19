@@ -8,11 +8,11 @@ header:
 
 ![Park Bench Bird](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlmcm1tOTQ3dHdpMnExamdneWkxZG5sNGxoeHI1ZmtnMTNkdHh6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduOIHEGxPap1X2g/giphy.gif)
 
-## Occupations
+## On my plate
 
 *   **AI Sabbatical:** Fascination. 🤖
 *   **Home Improvement:** Necessity. 🏡
 *   **Spouse, parent, citizen:** Love. 🧑‍🧑‍🧒‍🧒
 
 ## Subliminal
-Funny, how the birds loom large in both the above photo and the drawing. 💭
+... why birds? 💭
