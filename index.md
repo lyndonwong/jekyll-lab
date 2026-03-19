@@ -10,10 +10,16 @@ header:
 
 ## Welcome!
 
-I tinker here with various digital technologies that can improve customer acquisition, conversion and retention. As time permits, I will profile some of this work and share relevant links below. 
+I tinker here with various digital technologies. Here's some recent efforts.
+* An AI-enabled recap of local city council activity
 
-* 🤖 
-* 🏡 
-* 🧑‍🧑‍🧒‍🧒
+Problem: How to catch up on a half-year of municipal government actions
+Solution: Leverage LLMs to summarize key themes, extract relevant details, and present these in visually concise ways
+[City Council Recap for Menlo Park](https://lyndonwong.notion.site/menlo-park-city-council-recap)
+![Streamlit-based analytic dashboard](https://en.wikipedia.org/wiki/Menlo_Park,_California#/media/File:Downtown_Menlo_Park_California.jpg)
 
-Please connect on my socials or check out my [Blog](https://lyndonwong.wordpress.com/ "Lyndon's Wordpress blog").
+* 
+*  
+* 
+
+Please connect on my socials or check out my [blog](https://lyndonwong.wordpress.com/ "Lyndon's Wordpress blog").
