@@ -19,8 +19,16 @@ I tinker here with various digital technologies. Here's some recent efforts.
 
 #### [City Council Recap for Menlo Park](https://link.lyndonwong.com/mp-council-recap-2)
 
-[![Streamlit-based analytic dashboard](/assets/images/mp-council-recap-rollovers.png){:width="80%" height="80%"}](https://link.lyndonwong.com/mp-council-recap-2)
+[![Streamlit-based analytic dashboard](/assets/images/mp-council-recap-rollovers.png){:width="100%" height="100%"}](https://link.lyndonwong.com/mp-council-recap-2)
+
+### AI Video Reels from Blog posts
+* Problem: How can a team of writers turn blog content into social media reels?
+* Solution: Blend practices from film-making and LLM prompt engineering to produce good results
+
+#### [AI video production workflow](https://lyndonwong.wordpress.com/2026/03/10/using-ai-to-turn-blog-posts-into-video-reels-for-social-channels/)
+
+[![AI applied at 3 key video production phases](/assets/images/AI_Reels_reality_2026.png)](https://lyndonwong.wordpress.com/2026/03/10/using-ai-to-turn-blog-posts-into-video-reels-for-social-channels/)
 
 * * *
 
-Connect on my socials or check out my [blog](https://lyndonwong.wordpress.com/ "Lyndon's Wordpress blog").
+Thanks for visiting!
