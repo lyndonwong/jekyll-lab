@@ -44,11 +44,24 @@ navigation:
   - title: "Blog"
     url: https://lyndonwong.wordpress.com
 
-# Defaults — applies Minimal Mistakes' "single" layout to all pages
+# Front Matter Defaults
 defaults:
+  # Settings for Pages
+  - scope:
+      path: ""          # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+
+  # Settings for Blog Posts
   - scope:
       path: ""
-      type: pages
+      type: "posts"
     values:
-      layout: single
+      layout: "single"
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
