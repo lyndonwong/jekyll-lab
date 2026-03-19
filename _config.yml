@@ -6,9 +6,9 @@ plugins:
   - jekyll-include-cache
 
 # Site settings
-title: "Jekyll stuff"
+title: "Lyndon Wong"
 name: "Lyndon Wong"
-description: "Testing Jekyll themes and layouts."
+description: "Personal homepage"
 url: "https://lyndonwong.com"
 baseurl: "/jekyll-lab"
 
