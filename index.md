@@ -26,7 +26,6 @@ I tinker here with various digital technologies. Here's some recent efforts.
 * Solution: Blend practices from film-making and LLM prompt engineering to produce good results
 
 #### [AI video production workflow](https://lyndonwong.wordpress.com/2026/03/10/using-ai-to-turn-blog-posts-into-video-reels-for-social-channels/)
-
 [![AI applied at 3 key video production phases](/assets/images/AI_Reels_reality_2026.png)](https://lyndonwong.wordpress.com/2026/03/10/using-ai-to-turn-blog-posts-into-video-reels-for-social-channels/)
 
 * * *
