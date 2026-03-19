@@ -14,13 +14,13 @@ I tinker here with various digital technologies. Here's some recent efforts.
 
 ### An AI-enabled recap of local city council activity
 
-* Problem: How to catch up on a half-year of municipal government actions
-* Solution: Leverage LLMs to summarize key themes, extract relevant details, and present these in a visually concise manner
+* Problem: How to quickly catch up on a half-year of local government actions
+* Solution: Leverage LLMs to summarize key themes and extract relevant details. Use Streamlit to present these in a visually concise manner.
 
-#### [City Council Recap for Menlo Park](https://lyndonwong.notion.site/menlo-park-city-council-recap)
+#### [City Council Recap for Menlo Park](https://link.lyndonwong.com/mp-council-recap-2)
 
-[![Streamlit-based analytic dashboard](/assets/images/mp-council-recap-rollovers.png){:width="70%" height="70%"}](https://lyndonwong.notion.site/menlo-park-city-council-recap)
+[![Streamlit-based analytic dashboard](/assets/images/mp-council-recap-rollovers.png){:width="80%" height="80%"}](https://link.lyndonwong.com/mp-council-recap-2)
 
----
+* * *
 
 Connect on my socials or check out my [blog](https://lyndonwong.wordpress.com/ "Lyndon's Wordpress blog").
