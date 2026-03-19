@@ -8,11 +8,11 @@ header:
 
 ![Park Bench Bird](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlmcm1tOTQ3dHdpMnExamdneWkxZG5sNGxoeHI1ZmtnMTNkdHh6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduOIHEGxPap1X2g/giphy.gif)
 
-## On my plate
+## Welcome to my online sandbox :)
 
-*   **AI Sabbatical:** Fascination. 🤖
-*   **Home Improvement:** Necessity. 🏡
-*   **Spouse, parent, citizen:** Love. 🧑‍🧑‍🧒‍🧒
+This site aggregates various online works in progress.  
 
-## Subliminal
-... why birds? 💭
+* 🤖 
+* 🏡 
+* 🧑‍🧑‍🧒‍🧒
+
