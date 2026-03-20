@@ -21,6 +21,8 @@ I tinker here with various digital technologies. Here's some recent efforts.
 
 [![Streamlit-based analytic dashboard](/assets/images/mp-council-recap-rollovers.png){:width="100%" height="100%"}](https://link.lyndonwong.com/mp-council-recap-2)
 
+* * * 
+
 ### AI Video Reels from Blog posts
 * Problem: How can a team of writers turn blog content into social media reels?
 * Solution: Blend practices from film-making and LLM prompt engineering to produce good results
