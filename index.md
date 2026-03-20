@@ -17,7 +17,7 @@ I tinker here with various digital technologies. Here's some recent efforts.
 * Problem: How to quickly catch up on a half-year of local government actions
 * Solution: Leverage LLMs to summarize key themes and extract relevant details. Use Streamlit to present these in a visually concise manner.
 
-#### [City Council Recap for Menlo Park](https://link.lyndonwong.com/mp-council-recap-2)
+##### [City Council Recap for Menlo Park](https://link.lyndonwong.com/mp-council-recap-2)
 
 [![Streamlit-based analytic dashboard](/assets/images/mp-council-recap-rollovers.png){:width="100%" height="100%"}](https://link.lyndonwong.com/mp-council-recap-2)
 
@@ -27,7 +27,7 @@ I tinker here with various digital technologies. Here's some recent efforts.
 * Problem: How can a team of writers turn blog content into social media reels?
 * Solution: Blend practices from film-making and LLM prompt engineering to produce good results
 
-#### [AI video production workflow](https://lyndonwong.wordpress.com/2026/03/10/using-ai-to-turn-blog-posts-into-video-reels-for-social-channels/)
+##### [AI video production workflow](https://lyndonwong.wordpress.com/2026/03/10/using-ai-to-turn-blog-posts-into-video-reels-for-social-channels/)
 [![AI applied at 3 key video production phases](/assets/images/AI_Reels_reality_2026.png)](https://lyndonwong.wordpress.com/2026/03/10/using-ai-to-turn-blog-posts-into-video-reels-for-social-channels/)
 
 * * *
